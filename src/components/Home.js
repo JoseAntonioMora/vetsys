@@ -1,9 +1,10 @@
-
+import { BarraLateralHome } from "./BarraLateralHome";
+import '../css/home.css';
 
 export const Home = () => {
-    return(
-        <div>
-            Lateral
-        </div>        
+    return(        
+        <>
+        <BarraLateralHome/>
+        </> 
     )
 }

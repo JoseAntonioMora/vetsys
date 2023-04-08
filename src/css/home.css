@@ -1,0 +1,31 @@
+.logo-img{
+    background-color: darkmagenta;
+    background-image: url(../images/Logo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 10em;
+    width: 10em;
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.ul-sidebar{
+    width: 10em;
+}
+
+.li-sidebar{
+    list-style: none;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    transition: all 0.5s;
+    width: auto;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.li-sidebar:hover{
+    background-color: salmon;
+}
