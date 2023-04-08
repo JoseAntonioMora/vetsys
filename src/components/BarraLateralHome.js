@@ -1,7 +1,7 @@
 export const BarraLateralHome = () => {
     return(
         <div>
-            <span className="logo-img">Pet Zoo</span>
+            <span className="logo-img">Pet Zoo.</span>
             <div>
                 <ul className="ul-sidebar">
                     <li className="li-sidebar">Home</li>
